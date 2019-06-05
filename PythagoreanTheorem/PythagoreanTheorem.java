@@ -1,8 +1,8 @@
 import java.lang.Math;
-public class Pythagorean {
+public class PythagoreanTheorem {
     public double calculateHypotenuse(int legA, int legB) {
-        double hypotenuse = Math.sqrt((legA * legA) + (legB * legB))
-        return hypotenuse
+        double hypotenuse = Math.sqrt((legA * legA) + (legB * legB));
+        return hypotenuse;
     }
 }
     
